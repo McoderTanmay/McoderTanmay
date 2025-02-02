@@ -1,5 +1,6 @@
 ## Code. Debug. Deploy. Repeat. 🔄 Welcome to my dev world! Myself Tanmay Sontaklke.
-([](https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png))
+<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png" width="200" height="200">
+<img src="./Primg.png" width="200" height="200">
 <!--
 **McoderTanmay/McoderTanmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
