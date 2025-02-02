@@ -12,7 +12,7 @@
 <p align="left">
   <img src="./Primg.png" width="500>
 </p>
-
+<br/>
 ---
 
 ### 🚀 About Me
