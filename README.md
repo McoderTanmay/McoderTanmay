@@ -7,10 +7,10 @@
 ---
 
 <p align="right">
-  <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png" width="500">
+  <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png" width="500"/>
 </p>
 <p align="left">
-  <img src="./Primg.png" width="500>
+  <img src="./Primg.png" width="500"/>
 </p>
 <br/>
 ---
