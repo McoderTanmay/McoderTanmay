@@ -7,13 +7,12 @@
 ---
 
 <p align="right">
-  <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png" width="1000"/>
+  <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png" width="750"/>
 </p>
 <p align="left">
-  <img src="./Primg.png" width="1000"/>
+  <img src="./Primg.png" width="750"/>
 </p>
 <br/>
----
 
 ### 🚀 About Me
 🔹 Full-Stack Developer | MERN | AI Enthusiast  
@@ -35,6 +34,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-sontakke)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanmaySontakke)
 
----
 
 ⭐ **Feel free to explore my repositories and collaborate!** 🚀
